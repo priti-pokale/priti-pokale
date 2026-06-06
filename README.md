@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Priti Pokale 👋
 
-<!--
-**priti-pokale/priti-pokale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer Intern and Computer Engineering Graduate passionate about DevOps, Full Stack Development, Flutter, and Automation.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 DevOps Engineer Intern
+- 📱 Flutter & Android Developer
+- 🌐 Full Stack Developer
+- 🤖 Automation Enthusiast
+- 🌱 Currently learning Cloud & Advanced DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+Python • Flutter • Dart • Firebase
+Jenkins • Git • CI/CD
+React.js • JavaScript
+HTML • CSS • MySQL
+Power Automate
+
+## 📌 Featured Projects
+- Enhancing Web Data Using LSTM Framework
+- We Won – Emotional Support Mobile App
+- Future Women Website
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/priti-pokale## Hi there 👋
